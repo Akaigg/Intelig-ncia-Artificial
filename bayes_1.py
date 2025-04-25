@@ -29,7 +29,7 @@ def chat_with_groq(prompt, context):
     
 # CRIAR A INTERFACE
 def main():
-    st.title("Bagulho de organização de estudos")
+    st.title("Chat de Estudos Univille")
     st.image("Robo-fofinho-estudando.jpg")
     # Incluir uma imagem de acordo ao sistema escolhido
     with st.sidebar:
